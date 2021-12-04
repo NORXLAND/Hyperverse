@@ -1,5 +1,8 @@
 # Hyperverse
 
+**IMPORTANT NOTE (2-dec-2021)**
+*Due to the recent changes on the Hyperverse environment the guide is out of date and will be updated shortly.  In the meantime use it as a reference on what steps to take at each point of the process, but read carefully the instructions on the official aplications as you go on.  No liability will be assumed by the collaborators of this guide if you loose your money*
+
 A guide for beginners who want to enter the world of Hyperverse (formerly Hyperfund):
 
 1. The Hyperverse environment
@@ -24,3 +27,6 @@ A guide for beginners who want to enter the world of Hyperverse (formerly Hyperf
     2. How to acquire a membership
     3. How to rebuy a membership
     4. References
+
+5. Reward Calculator
+A calculator that will allow you to find out the amount of rewards you can get in a certain period of time.
