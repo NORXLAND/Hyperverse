@@ -1,8 +1,9 @@
 # Hyperverse
 
-*Disclaimer: the contributors of this guide do not assume any financial or legal responsibility in the event that the user of this guide loses money during (or after) the process of creating a Hyperverse account or related application (Crypto.com, Hyperpay, Revolut, etc.)*
+*Disclaimer: the contributors of this guide do not assume any financial or legal responsibility in the event that the user of this guide loses money during (or after) the process of creating a Hyperverse account or related applications: Crypto.com, Hyperpay, Revolut, etc.*  
+*Advise: see the videos in 6.1.References and then read Chapter 1 to understand what is Hyperverse*
 
-A guide for beginners who want to enter the world of Hyperverse (formerly Hyperfund) at their own risk:
+A guide for beginners who want to enter the world of Hyperverse (formerly Hyperfund) at their own risk.
 
 1. The Hyperverse environment
     1. About Hyperverse
@@ -33,5 +34,5 @@ A guide for beginners who want to enter the world of Hyperverse (formerly Hyperf
 6. Annex
     1. References
 
-7. Reward Calculator
+7. Reward Calculator  
 A calculator that will allow you to find out the amount of rewards you can get in a certain period of time.
