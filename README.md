@@ -1,10 +1,8 @@
 # Hyperverse
 
-**IMPORTANT NOTE (2-dec-2021)**
+*Disclaimer: the contributors of this guide do not assume any financial or legal responsibility in the event that the user of this guide loses money during (or after) the process of creating a Hyperverse account or related application (Crypto.com, Hyperpay, Revolut, etc.)*
 
-*Due to the recent changes on the Hyperverse environment the guide is out of date and will be updated shortly.  In the meantime use it as a reference on what steps to take at each point of the process, but read carefully the instructions on the official aplications as you go on.  No liability will be assumed by the collaborators of this guide if you loose your money*
-
-A guide for beginners who want to enter the world of Hyperverse (formerly Hyperfund):
+A guide for beginners who want to enter the world of Hyperverse (formerly Hyperfund) at their own risk:
 
 1. The Hyperverse environment
     1. About Hyperverse
